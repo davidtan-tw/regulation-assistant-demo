@@ -1,9 +1,11 @@
-# python virtual environments
+# python
 .venv
 venv
 *.pyc
 __pycache__
+.ipynb_checkpoints
 
 # editor configs
 .idea/
+
 

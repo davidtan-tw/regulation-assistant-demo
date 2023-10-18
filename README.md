@@ -30,3 +30,8 @@ export OPENAI_API_KEY='your key'
 # Start jupyter notebook
 jupyter notebook
 ```
+
+## Supporting resources
+
+- [Retrieval Augmented Generation](https://python.langchain.com/docs/use_cases/question_answering/)
+
